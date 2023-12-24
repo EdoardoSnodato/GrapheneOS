@@ -1,1 +1,15 @@
 - resettare telefono
+- verificare che telefono sia aggiornato
+- abilitare opzioni sviluppatore
+- 3:30 abilitare OEM unlocking (telefono deve essere connesso a internet)
+- installare su pc, android-sdk-platform-tools-common
+- riavviare telefono, durante boot, tenere premuto volume giù
+- connettere Pixel a pc
+- su pc utilizzato browser Chromium
+- 8:50 sbloccare bootloader
+- 9:35 scaricare immagine (disabilitare VPN)
+- flash immagine (non preoccuparsi di continue accensioni/spegnimenti schermo, durante flash è visualizzata schermata FASTBOOTD)
+- 12:00 bloccare bootloader
+- 13:30 riavviare Pixel, fare setup iniziale
+- 14:50 disabilitare OEM unlocking e opzioni sviluppatore
+- 16:00 verificare boot key hash
